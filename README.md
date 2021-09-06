@@ -10,7 +10,7 @@
 # Proyecto: “Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de Sistemas”
 # Integrantes 🤓:
 - **Fiorella Choque Bueno** - GitHub Account - [FioChoque](https://github.com/FioChoque)
-- **Alexander Ttito Saya ** - GitHub Account - [AlexanderTS1](https://github.com/AlexanderTS1)
+- **Alexander Ttito Saya** - GitHub Account - [AlexanderTS1](https://github.com/AlexanderTS1)
 - **Jhon Edwin Tacusi Larota - 150408** - [jhontacusi](https://github.com/jhontacusi)
 - **Antony Isaac Huaman Hermoza** - _GitHub Account_ - [Isaac170434](https://github.com/Isaac170434)
 
