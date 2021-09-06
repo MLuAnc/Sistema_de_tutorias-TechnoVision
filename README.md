@@ -13,6 +13,7 @@
 - **Alexander Ttito Saya** - GitHub Account - [AlexanderTS1](https://github.com/AlexanderTS1)
 - **Jhon Edwin Tacusi Larota** - GitHub Account - [jhontacusi](https://github.com/jhontacusi)
 - **Antony Isaac Huaman Hermoza** - _GitHub Account_ - [Isaac170434](https://github.com/Isaac170434)
+- **Cesar Rodrigo Ttito Quilca** - _GitHub Account_ - [cesarodrigo21](https://github.com/cesarodrigo21)
 
 # Descripcion organizacional del sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de Sistemas”
 
