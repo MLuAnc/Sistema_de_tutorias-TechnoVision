@@ -1,0 +1,14 @@
+R1: asignar docentes tutores (✓);
+R2:seleccion de tutorados (obtener lista)(*lo hago otro dia)
+R3:designacion de alumnos a tutores(-) a medias;
+(repartir aleatoriamente)
+r4:seleecionar estudiantes ayhudantes (formulario)
+r5:visualizar (x) exportar pdf (base datos)
+r6:Ingresar fecha y hora de tutoria (formulario)
+r7:notifica cita (✓)
+r8: consultar fecha y hora (✓)(reservar)
+r9:brindar asistencia de tutoria(-)por hacer
+r10:formulario (almecnar esa infrimacion)
+r11: agregar nuevo usuario(✓)
+r12: Solictar cambio de tutor (✓)obs: notificaion redireciona a la edicion del tutor
+r13:(✓)

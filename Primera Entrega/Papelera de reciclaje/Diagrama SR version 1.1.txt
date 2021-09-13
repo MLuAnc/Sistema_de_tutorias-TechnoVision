@@ -1,0 +1,1255 @@
+{
+  "actors": [
+    {
+      "id": "e823d309-4eb5-44a0-a94a-331ed724149c",
+      "text": "Director DAII",
+      "type": "istar.Role",
+      "x": 495,
+      "y": 221,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "29a7aac5-b223-41fe-a785-80d96507a95e",
+          "text": "R1: Selección de docentes tutores",
+          "type": "istar.Resource",
+          "x": 575,
+          "y": 265,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "b00281c7-8658-4c6f-9591-8c4417ba7f6b",
+          "text": "Realizar filtro de docentes",
+          "type": "istar.Task",
+          "x": 592,
+          "y": 347,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "71624147-fa4f-4707-8d5e-e07c6e9486e3",
+          "text": "Elaborar lista de tutores",
+          "type": "istar.Goal",
+          "x": 585,
+          "y": 402,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "6885d626-3961-4bd4-8cb6-81b6a055441b",
+          "text": "R4: Seleccionar a los Estudiantes Ayudantes de tutoría",
+          "type": "istar.Resource",
+          "x": 740,
+          "y": 256,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "80938e3a-a352-4a37-bbb4-0a8c78e88ead",
+      "text": "Coordinador de tutorias",
+      "type": "istar.Role",
+      "x": 394,
+      "y": 649,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "4f59edf6-ce0e-4e6d-a4cf-0634e8c58d47",
+          "text": "R2:Clasificar a los alumnos realizando una entrevista personal",
+          "type": "istar.Resource",
+          "x": 1321,
+          "y": 663,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "e04cb66c-af1a-43cd-90d0-216f7e109c02",
+          "text": "R3: Designa  tutorados a tutores",
+          "type": "istar.Resource",
+          "x": 921,
+          "y": 697,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "3dbc3c13-1466-4c75-9529-2c4cef75ab51",
+          "text": "R11: Agregar nuevos usuarios (docentes y tutorando), así como retirarlos",
+          "type": "istar.Resource",
+          "x": 616,
+          "y": 938,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "e0fca798-f9fd-4bc8-8934-2b0747d789b2",
+          "text": "Recuperar a los estudiantes de Ingenieria informatica y de sistemas",
+          "type": "istar.Task",
+          "x": 1356,
+          "y": 778,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "576434d7-9973-4469-9404-70880a997542",
+          "text": "Invitar a la entrevista personal",
+          "type": "istar.Goal",
+          "x": 1390,
+          "y": 921,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "9c61bd57-68bc-42ab-b1c2-975416dc0aa0",
+          "text": "Listar Tutores con respectivos tutorados",
+          "type": "istar.Task",
+          "x": 862,
+          "y": 821,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "b922862d-fe44-4746-ba67-01c33b18be3d",
+          "text": "Registar lista de posibles turorados",
+          "type": "istar.Task",
+          "x": 1441,
+          "y": 1011,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "82acf589-0ead-4e6c-aa19-1aeb1308d328",
+          "text": "Publicar lista de tutores con respectivos tutorados",
+          "type": "istar.Goal",
+          "x": 934,
+          "y": 915,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "8d85baab-c14e-4308-a889-5b95f25b1e5f",
+          "text": "Agregar docentes tutores",
+          "type": "istar.Task",
+          "x": 419,
+          "y": 1061,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "4bd7674d-bcbd-45eb-ab00-6a3e21143013",
+          "text": "Elimina docentes tutores",
+          "type": "istar.Task",
+          "x": 553,
+          "y": 1057,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "0066e465-efa7-453d-a04b-e01c0b5db2d8",
+          "text": "Agrega tutorados",
+          "type": "istar.Task",
+          "x": 712,
+          "y": 1062,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "afc9b42c-e484-4868-8ba7-b59864771093",
+          "text": "Elimina tutorados",
+          "type": "istar.Task",
+          "x": 821,
+          "y": 1064,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "4afd4d4c-4844-43d6-bf28-34bd2e23d59e",
+          "text": "Actualizar usuarios de progema de tutorias",
+          "type": "istar.Goal",
+          "x": 549,
+          "y": 1142,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "153848cd-6383-4b93-adbc-b99593ffe39d",
+      "text": "Docente",
+      "type": "istar.Role",
+      "x": 55,
+      "y": 602,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "6e840927-bafb-4219-baa2-79378b06ee00",
+      "text": "Tutorado",
+      "type": "istar.Role",
+      "x": 1680,
+      "y": 1106,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "b6de1a87-f23f-422d-ac84-cb0470c47a21",
+          "text": "R8: Consultar la fecha y la hora de tutoría",
+          "type": "istar.Resource",
+          "x": 2055,
+          "y": 1192,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "84d7fa9b-e039-4e38-8ef1-327d4c2a3ee8",
+          "text": "R12: Solicitar cambio de tutor",
+          "type": "istar.Resource",
+          "x": 1899,
+          "y": 1294,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "f3cc9a60-6eaa-4336-beea-94e020b8aaee",
+          "text": "Mantener comunicaion permanente con tutor",
+          "type": "istar.Goal",
+          "x": 1724,
+          "y": 1314,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "e36b28fe-60f0-4b9b-ac3d-9368d1289433",
+          "text": "Presentar solicitud de cambio ed tutor",
+          "type": "istar.Task",
+          "x": 1897,
+          "y": 1432,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "e2b1a680-22dc-472c-8ac1-4f3cce5e1242",
+          "text": "Compredimiento y buena relacion tutor-turado",
+          "type": "istar.Goal",
+          "x": 2086,
+          "y": 1436,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "6c440d63-94ab-4053-bb79-8df6e93bedb9",
+          "text": "Asistir obligatoriamente a la tutoría",
+          "type": "istar.Task",
+          "x": 1725,
+          "y": 1200,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "349d07dc-c31d-483e-9b45-e498af03ca8f",
+      "text": "Ayudante de tutoria",
+      "type": "istar.Role",
+      "x": 1566,
+      "y": 498,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "62ce6b6d-bf85-46e4-8e2a-f5a7fe83bb31",
+          "text": "Cumplir responsabilidades de estudianre de tutoria",
+          "type": "istar.Task",
+          "x": 1667,
+          "y": 509,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "ac2c2352-6e5f-44b4-a496-60c926553742",
+          "text": "Obtner un credito y certificado",
+          "type": "istar.Goal",
+          "x": 1685,
+          "y": 606,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "1d70a84f-baa3-4af4-af02-8b9c70ad9c25",
+      "text": "Estudiante",
+      "type": "istar.Role",
+      "x": 1895,
+      "y": 390,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "69e76ba8-b4c8-4daa-bf4a-a729b5803d7e",
+          "text": "Entrar al conscurso para formar parte de programa de tutoria",
+          "type": "istar.Task",
+          "x": 2037,
+          "y": 420,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "e60f67e3-5747-402f-a3de-93b43715226b",
+          "text": "Obtener un crédito",
+          "type": "istar.Goal",
+          "x": 1975,
+          "y": 501,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "5cdb2558-ae97-4bab-9119-911714beba56",
+          "text": "Pertenecer al tercio superior",
+          "type": "istar.Quality",
+          "x": 2096,
+          "y": 533,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "4dd65a88-8570-4a15-8532-8570fc255264",
+          "text": "Matriculado en el semestre actual",
+          "type": "istar.Quality",
+          "x": 2268,
+          "y": 488,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "60772953-4e1e-4689-91b3-2b742e95acd0",
+      "text": "Centro de computo",
+      "type": "istar.Agent",
+      "x": 1199,
+      "y": 395,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "14fcf3b3-0ab0-4309-9cbc-cb29b765334e",
+          "text": "Filtrar estudiantes de Ingenieria Informatica y de Sistemas",
+          "type": "istar.Task",
+          "x": 1261,
+          "y": 422,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "a2f13280-b174-472b-ba72-a7ad6e8264ce",
+          "text": "Reporte de alumnos mediante catagolo",
+          "type": "istar.Goal",
+          "x": 1271,
+          "y": 514,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "192d59f4-826e-4a83-9247-c7fc5ffc1774",
+      "text": "Tutor",
+      "type": "istar.Role",
+      "x": 332,
+      "y": 1346,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "ab134a86-1767-4051-9477-20a9f5a193d8",
+          "text": "R5: Visualizar la distribución de los tutores con sus tutorados",
+          "type": "istar.Resource",
+          "x": 406,
+          "y": 1354.5,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "525dafc5-3759-435d-81e9-4136398bb90d",
+          "text": "R6: Ingresar la fecha y hora de su tutoría",
+          "type": "istar.Resource",
+          "x": 605,
+          "y": 1547,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "dcc7a028-5948-48f4-bbab-a3179c8e63c3",
+          "text": "R7: Notificar la cita al tutorado",
+          "type": "istar.Resource",
+          "x": 704,
+          "y": 1373,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "4fdb21f6-44cc-4840-9645-97f1ae0cfba2",
+          "text": "R9: Brindar asistencia de tutoría",
+          "type": "istar.Resource",
+          "x": 1138,
+          "y": 1421,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "e8bdec36-1d47-4a1a-809a-6b37152fa4ad",
+          "text": "R10: Registrar el estado situacional de cada uno de los estudiantes",
+          "type": "istar.Resource",
+          "x": 848,
+          "y": 1600,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "a7eb4cfb-f8fe-4b25-8c9a-59d69b66ce99",
+          "text": "R13: Subir el  informe del  rendimiento académico al culminar el semestre",
+          "type": "istar.Resource",
+          "x": 562,
+          "y": 1759,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "5ea6879a-a306-487f-b650-d94bb4af9393",
+          "text": "Emite notificacion a sus respectivos tutorados",
+          "type": "istar.Task",
+          "x": 841,
+          "y": 1476,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "f5c6f324-da58-47c3-8561-a9ada6f301bd",
+          "text": "Verifica lista de distribucion de tutores con tutorados",
+          "type": "istar.Task",
+          "x": 401,
+          "y": 1429,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "3e46282a-328e-4ab8-89e9-8c8cd31edc16",
+          "text": "Programar sesiones de tutoria",
+          "type": "istar.Goal",
+          "x": 411,
+          "y": 1531,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "e5823b36-ad0b-45ad-81e0-4ee94cdc64da",
+          "text": "Programa horario de asistencia de tutoria",
+          "type": "istar.Task",
+          "x": 609,
+          "y": 1610,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "3fbee747-9a6d-4c47-87be-9de8bc5ba621",
+          "text": "Obtener asistencia de de la mayoria de tutorados asignados",
+          "type": "istar.Task",
+          "x": 1130,
+          "y": 1513,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "1257fadb-0088-408e-bd2f-cf6bf18e60f5",
+          "text": "Realizar asistencia de tutoria",
+          "type": "istar.Goal",
+          "x": 1151,
+          "y": 1632,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "57c52eb5-eb02-426e-b828-de4742668112",
+          "text": "Realizar informe de tutoria",
+          "type": "istar.Task",
+          "x": 914,
+          "y": 1763,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "933a4a64-d7d0-47bf-a282-f0ffcd562b3a",
+          "text": "Evitar cruce de horario",
+          "type": "istar.Quality",
+          "x": 374,
+          "y": 1676.5,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    }
+  ],
+  "orphans": [],
+  "dependencies": [
+    {
+      "id": "12cdf353-9636-4f7b-a09f-3fb6a49d7d29",
+      "text": "Concurso de seleccion de estudiantes ayudantes",
+      "type": "istar.Resource",
+      "x": 1737,
+      "y": 145,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "6885d626-3961-4bd4-8cb6-81b6a055441b",
+      "target": "69e76ba8-b4c8-4daa-bf4a-a729b5803d7e"
+    },
+    {
+      "id": "dedb2f50-fe37-450a-aa1b-bb1c1702f5e1",
+      "text": "Concurso de seleccion de estudiantes ayudantes",
+      "type": "istar.Task",
+      "x": 1531,
+      "y": 269,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "62ce6b6d-bf85-46e4-8e2a-f5a7fe83bb31",
+      "target": "6885d626-3961-4bd4-8cb6-81b6a055441b"
+    },
+    {
+      "id": "5a988a0a-9b3d-447e-84a1-2bd4b9285650",
+      "text": "Alumnos por curso",
+      "type": "istar.Task",
+      "x": 1018,
+      "y": 592,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "e0fca798-f9fd-4bc8-8934-2b0747d789b2",
+      "target": "a2f13280-b174-472b-ba72-a7ad6e8264ce"
+    },
+    {
+      "id": "19b8ddc5-9c58-4433-b026-90111fe0ef6f",
+      "text": "Lista de docentes tutores",
+      "type": "istar.Task",
+      "x": 595,
+      "y": 543,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "9c61bd57-68bc-42ab-b1c2-975416dc0aa0",
+      "target": "71624147-fa4f-4707-8d5e-e07c6e9486e3"
+    },
+    {
+      "id": "0b45a412-c91e-4737-b20d-4ea9bc9bac6f",
+      "text": "Lista de docentes tutores",
+      "type": "istar.Task",
+      "x": 507,
+      "y": 571,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "4bd7674d-bcbd-45eb-ab00-6a3e21143013",
+      "target": "71624147-fa4f-4707-8d5e-e07c6e9486e3"
+    },
+    {
+      "id": "48fb86fb-5dc7-4dcd-a615-a7d2bd7d6eec",
+      "text": "Lista de docentes tutores",
+      "type": "istar.Task",
+      "x": 416,
+      "y": 535,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "8d85baab-c14e-4308-a889-5b95f25b1e5f",
+      "target": "71624147-fa4f-4707-8d5e-e07c6e9486e3"
+    },
+    {
+      "id": "76a64e6a-42f0-4452-8644-d50e17a59abe",
+      "text": "Lista de tutores y tutorados",
+      "type": "istar.Task",
+      "x": 1082,
+      "y": 1221,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "5ea6879a-a306-487f-b650-d94bb4af9393",
+      "target": "82acf589-0ead-4e6c-aa19-1aeb1308d328"
+    },
+    {
+      "id": "76f45b32-67e6-4960-ae2a-750238ae70eb",
+      "text": "Lista de tutores y tutorados",
+      "type": "istar.Task",
+      "x": 913,
+      "y": 1217,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "f5c6f324-da58-47c3-8561-a9ada6f301bd",
+      "target": "82acf589-0ead-4e6c-aa19-1aeb1308d328"
+    },
+    {
+      "id": "a9200ad6-1b3a-4362-a387-538410ee64c9",
+      "text": "Notificacion de asitencia a tutoria",
+      "type": "istar.Task",
+      "x": 1394,
+      "y": 1219,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "6c440d63-94ab-4053-bb79-8df6e93bedb9",
+      "target": "5ea6879a-a306-487f-b650-d94bb4af9393"
+    },
+    {
+      "id": "1d5d6a17-4755-426b-bce4-498007047614",
+      "text": "Asistencia a tutoria programado",
+      "type": "istar.Task",
+      "x": 1465,
+      "y": 1639,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "6c440d63-94ab-4053-bb79-8df6e93bedb9",
+      "target": "57c52eb5-eb02-426e-b828-de4742668112"
+    }
+  ],
+  "links": [
+    {
+      "id": "32d7a715-4590-4b89-a3ae-d6a74bf3562a",
+      "type": "istar.IsALink",
+      "source": "e823d309-4eb5-44a0-a94a-331ed724149c",
+      "target": "153848cd-6383-4b93-adbc-b99593ffe39d"
+    },
+    {
+      "id": "afc8e9bc-81a1-41ec-b614-b63d772657dc",
+      "type": "istar.IsALink",
+      "source": "80938e3a-a352-4a37-bbb4-0a8c78e88ead",
+      "target": "153848cd-6383-4b93-adbc-b99593ffe39d"
+    },
+    {
+      "id": "5b1e9198-b634-490c-b35a-7d32c68c06ec",
+      "type": "istar.NeededByLink",
+      "source": "29a7aac5-b223-41fe-a785-80d96507a95e",
+      "target": "b00281c7-8658-4c6f-9591-8c4417ba7f6b"
+    },
+    {
+      "id": "07587dc8-cc8b-49c7-b7e4-592f37fff7ad",
+      "type": "istar.AndRefinementLink",
+      "source": "71624147-fa4f-4707-8d5e-e07c6e9486e3",
+      "target": "b00281c7-8658-4c6f-9591-8c4417ba7f6b"
+    },
+    {
+      "id": "6fa6b492-601c-488c-82f1-dc13153eac0f",
+      "type": "istar.IsALink",
+      "source": "6e840927-bafb-4219-baa2-79378b06ee00",
+      "target": "1d70a84f-baa3-4af4-af02-8b9c70ad9c25"
+    },
+    {
+      "id": "a91c6e80-9cd2-4600-922a-56e8e26d906e",
+      "type": "istar.IsALink",
+      "source": "349d07dc-c31d-483e-9b45-e498af03ca8f",
+      "target": "1d70a84f-baa3-4af4-af02-8b9c70ad9c25"
+    },
+    {
+      "id": "25ead379-a1d8-40a4-b71b-a7a02724e2c5",
+      "type": "istar.AndRefinementLink",
+      "source": "69e76ba8-b4c8-4daa-bf4a-a729b5803d7e",
+      "target": "e60f67e3-5747-402f-a3de-93b43715226b"
+    },
+    {
+      "id": "9735a5ff-5484-4fcc-b544-c8398ceae16e",
+      "type": "istar.QualificationLink",
+      "source": "5cdb2558-ae97-4bab-9119-911714beba56",
+      "target": "69e76ba8-b4c8-4daa-bf4a-a729b5803d7e"
+    },
+    {
+      "id": "4df9e3b3-a74a-493a-b2c8-c35e964a826b",
+      "type": "istar.ContributionLink",
+      "source": "69e76ba8-b4c8-4daa-bf4a-a729b5803d7e",
+      "target": "4dd65a88-8570-4a15-8532-8570fc255264",
+      "label": "make"
+    },
+    {
+      "id": "ab2ecff6-b3f6-4c00-8d7f-279d4891133b",
+      "type": "istar.NeededByLink",
+      "source": "84d7fa9b-e039-4e38-8ef1-327d4c2a3ee8",
+      "target": "e36b28fe-60f0-4b9b-ac3d-9368d1289433"
+    },
+    {
+      "id": "3f9830d8-77d1-443b-ae09-1a13c1815abb",
+      "type": "istar.AndRefinementLink",
+      "source": "62ce6b6d-bf85-46e4-8e2a-f5a7fe83bb31",
+      "target": "ac2c2352-6e5f-44b4-a496-60c926553742"
+    },
+    {
+      "id": "adb793e6-457a-4383-80f5-20cc4e02b05b",
+      "type": "istar.AndRefinementLink",
+      "source": "e36b28fe-60f0-4b9b-ac3d-9368d1289433",
+      "target": "e2b1a680-22dc-472c-8ac1-4f3cce5e1242"
+    },
+    {
+      "id": "e95b5d73-cdf4-44e7-b5e9-36d8660e06e3",
+      "type": "istar.NeededByLink",
+      "source": "b6de1a87-f23f-422d-ac84-cb0470c47a21",
+      "target": "6c440d63-94ab-4053-bb79-8df6e93bedb9"
+    },
+    {
+      "id": "cd93abb9-61a8-4306-97fa-9bf47a9d9828",
+      "type": "istar.AndRefinementLink",
+      "source": "6c440d63-94ab-4053-bb79-8df6e93bedb9",
+      "target": "f3cc9a60-6eaa-4336-beea-94e020b8aaee"
+    },
+    {
+      "id": "ddb68661-b9b0-485f-9cd8-2a5f17e49cbd",
+      "type": "istar.DependencyLink",
+      "source": "6885d626-3961-4bd4-8cb6-81b6a055441b",
+      "target": "12cdf353-9636-4f7b-a09f-3fb6a49d7d29"
+    },
+    {
+      "id": "c56964b1-27b7-4236-9255-ff9b782adc71",
+      "type": "istar.DependencyLink",
+      "source": "12cdf353-9636-4f7b-a09f-3fb6a49d7d29",
+      "target": "69e76ba8-b4c8-4daa-bf4a-a729b5803d7e"
+    },
+    {
+      "id": "6703edee-3237-4c45-a344-f6aecc9f178a",
+      "type": "istar.DependencyLink",
+      "source": "62ce6b6d-bf85-46e4-8e2a-f5a7fe83bb31",
+      "target": "dedb2f50-fe37-450a-aa1b-bb1c1702f5e1"
+    },
+    {
+      "id": "14e5b209-4155-497b-86ef-8269f4a6f60a",
+      "type": "istar.DependencyLink",
+      "source": "dedb2f50-fe37-450a-aa1b-bb1c1702f5e1",
+      "target": "6885d626-3961-4bd4-8cb6-81b6a055441b"
+    },
+    {
+      "id": "ba3ed166-df7e-4397-973e-e110dbe88c9e",
+      "type": "istar.AndRefinementLink",
+      "source": "14fcf3b3-0ab0-4309-9cbc-cb29b765334e",
+      "target": "a2f13280-b174-472b-ba72-a7ad6e8264ce"
+    },
+    {
+      "id": "2b25c651-1cdb-461e-bb87-4b84f5eb9476",
+      "type": "istar.DependencyLink",
+      "source": "e0fca798-f9fd-4bc8-8934-2b0747d789b2",
+      "target": "5a988a0a-9b3d-447e-84a1-2bd4b9285650"
+    },
+    {
+      "id": "b3751433-6938-4f0c-a0d4-5223c67e3955",
+      "type": "istar.DependencyLink",
+      "source": "5a988a0a-9b3d-447e-84a1-2bd4b9285650",
+      "target": "a2f13280-b174-472b-ba72-a7ad6e8264ce"
+    },
+    {
+      "id": "45dd7b2e-6304-43bb-af8e-17e9152feced",
+      "type": "istar.NeededByLink",
+      "source": "4f59edf6-ce0e-4e6d-a4cf-0634e8c58d47",
+      "target": "e0fca798-f9fd-4bc8-8934-2b0747d789b2"
+    },
+    {
+      "id": "47ec510f-47f8-4faf-8d5a-4001492bf131",
+      "type": "istar.AndRefinementLink",
+      "source": "e0fca798-f9fd-4bc8-8934-2b0747d789b2",
+      "target": "576434d7-9973-4469-9404-70880a997542"
+    },
+    {
+      "id": "a89adf2b-9e1f-4633-9c9c-b15e3a172375",
+      "type": "istar.AndRefinementLink",
+      "source": "b922862d-fe44-4746-ba67-01c33b18be3d",
+      "target": "576434d7-9973-4469-9404-70880a997542"
+    },
+    {
+      "id": "20b67028-bb27-458e-acb3-40565731c00c",
+      "type": "istar.NeededByLink",
+      "source": "e04cb66c-af1a-43cd-90d0-216f7e109c02",
+      "target": "9c61bd57-68bc-42ab-b1c2-975416dc0aa0"
+    },
+    {
+      "id": "0601f38d-cfe0-47b6-9725-df22a7a978b6",
+      "type": "istar.DependencyLink",
+      "source": "9c61bd57-68bc-42ab-b1c2-975416dc0aa0",
+      "target": "19b8ddc5-9c58-4433-b026-90111fe0ef6f"
+    },
+    {
+      "id": "169ecf5a-c741-4450-939d-4cf230e29dba",
+      "type": "istar.DependencyLink",
+      "source": "19b8ddc5-9c58-4433-b026-90111fe0ef6f",
+      "target": "71624147-fa4f-4707-8d5e-e07c6e9486e3"
+    },
+    {
+      "id": "411826f5-c4d2-417c-b3a2-b03189702593",
+      "type": "istar.AndRefinementLink",
+      "source": "9c61bd57-68bc-42ab-b1c2-975416dc0aa0",
+      "target": "b922862d-fe44-4746-ba67-01c33b18be3d"
+    },
+    {
+      "id": "f605e3d2-b2e6-48d3-81b1-47640c2b44b4",
+      "type": "istar.AndRefinementLink",
+      "source": "9c61bd57-68bc-42ab-b1c2-975416dc0aa0",
+      "target": "82acf589-0ead-4e6c-aa19-1aeb1308d328"
+    },
+    {
+      "id": "d1419a2f-9aa4-4b3d-b55e-2ae2f7e71b7e",
+      "type": "istar.NeededByLink",
+      "source": "3dbc3c13-1466-4c75-9529-2c4cef75ab51",
+      "target": "8d85baab-c14e-4308-a889-5b95f25b1e5f"
+    },
+    {
+      "id": "8f829c7a-138f-464e-8b14-a91aee0db937",
+      "type": "istar.NeededByLink",
+      "source": "3dbc3c13-1466-4c75-9529-2c4cef75ab51",
+      "target": "4bd7674d-bcbd-45eb-ab00-6a3e21143013"
+    },
+    {
+      "id": "172e3ca9-52ee-405c-850d-0eef5f009bac",
+      "type": "istar.NeededByLink",
+      "source": "3dbc3c13-1466-4c75-9529-2c4cef75ab51",
+      "target": "0066e465-efa7-453d-a04b-e01c0b5db2d8"
+    },
+    {
+      "id": "be617746-938a-4193-ab82-5e0785a4aedd",
+      "type": "istar.NeededByLink",
+      "source": "3dbc3c13-1466-4c75-9529-2c4cef75ab51",
+      "target": "afc9b42c-e484-4868-8ba7-b59864771093"
+    },
+    {
+      "id": "c2b840e5-0fc1-4478-8192-45a687f3d95a",
+      "type": "istar.DependencyLink",
+      "source": "4bd7674d-bcbd-45eb-ab00-6a3e21143013",
+      "target": "0b45a412-c91e-4737-b20d-4ea9bc9bac6f"
+    },
+    {
+      "id": "903136c0-d429-4119-b978-45828d43fde4",
+      "type": "istar.DependencyLink",
+      "source": "0b45a412-c91e-4737-b20d-4ea9bc9bac6f",
+      "target": "71624147-fa4f-4707-8d5e-e07c6e9486e3"
+    },
+    {
+      "id": "e0e117be-1267-4ef2-86f1-293b46895e05",
+      "type": "istar.DependencyLink",
+      "source": "8d85baab-c14e-4308-a889-5b95f25b1e5f",
+      "target": "48fb86fb-5dc7-4dcd-a615-a7d2bd7d6eec"
+    },
+    {
+      "id": "d8dd59ca-56eb-4240-9bd3-86e4ef9ebbd2",
+      "type": "istar.DependencyLink",
+      "source": "48fb86fb-5dc7-4dcd-a615-a7d2bd7d6eec",
+      "target": "71624147-fa4f-4707-8d5e-e07c6e9486e3"
+    },
+    {
+      "id": "1aaa3ad0-a393-4ff3-b164-425042f240b7",
+      "type": "istar.AndRefinementLink",
+      "source": "8d85baab-c14e-4308-a889-5b95f25b1e5f",
+      "target": "4afd4d4c-4844-43d6-bf28-34bd2e23d59e"
+    },
+    {
+      "id": "3bbc79ad-779e-4bbf-a1c2-802a0981516a",
+      "type": "istar.AndRefinementLink",
+      "source": "4bd7674d-bcbd-45eb-ab00-6a3e21143013",
+      "target": "4afd4d4c-4844-43d6-bf28-34bd2e23d59e"
+    },
+    {
+      "id": "1c92b834-5193-4371-959c-7937bd7fa79f",
+      "type": "istar.AndRefinementLink",
+      "source": "0066e465-efa7-453d-a04b-e01c0b5db2d8",
+      "target": "4afd4d4c-4844-43d6-bf28-34bd2e23d59e"
+    },
+    {
+      "id": "b290b753-bf4e-49d7-8836-d575e116d35a",
+      "type": "istar.AndRefinementLink",
+      "source": "afc9b42c-e484-4868-8ba7-b59864771093",
+      "target": "4afd4d4c-4844-43d6-bf28-34bd2e23d59e"
+    },
+    {
+      "id": "43004fd4-f949-4ab2-925e-398322b1b130",
+      "type": "istar.NeededByLink",
+      "source": "dcc7a028-5948-48f4-bbab-a3179c8e63c3",
+      "target": "5ea6879a-a306-487f-b650-d94bb4af9393"
+    },
+    {
+      "id": "49e1a861-9480-4322-83bc-5d7e9ba384c6",
+      "type": "istar.DependencyLink",
+      "source": "5ea6879a-a306-487f-b650-d94bb4af9393",
+      "target": "76a64e6a-42f0-4452-8644-d50e17a59abe"
+    },
+    {
+      "id": "2a45e0aa-eb54-475c-a262-c43d58d9c699",
+      "type": "istar.DependencyLink",
+      "source": "76a64e6a-42f0-4452-8644-d50e17a59abe",
+      "target": "82acf589-0ead-4e6c-aa19-1aeb1308d328"
+    },
+    {
+      "id": "b16ab17d-3766-4b5d-a996-8ef315cd7a28",
+      "type": "istar.NeededByLink",
+      "source": "ab134a86-1767-4051-9477-20a9f5a193d8",
+      "target": "f5c6f324-da58-47c3-8561-a9ada6f301bd"
+    },
+    {
+      "id": "4f4c0a5c-4a2f-4446-87d5-51a370ed501d",
+      "type": "istar.DependencyLink",
+      "source": "f5c6f324-da58-47c3-8561-a9ada6f301bd",
+      "target": "76f45b32-67e6-4960-ae2a-750238ae70eb"
+    },
+    {
+      "id": "7b01a0b3-ea5f-4a01-913b-e69f119467c0",
+      "type": "istar.DependencyLink",
+      "source": "76f45b32-67e6-4960-ae2a-750238ae70eb",
+      "target": "82acf589-0ead-4e6c-aa19-1aeb1308d328"
+    },
+    {
+      "id": "b09074ef-bef4-47cd-a002-76ca609e25da",
+      "type": "istar.AndRefinementLink",
+      "source": "f5c6f324-da58-47c3-8561-a9ada6f301bd",
+      "target": "3e46282a-328e-4ab8-89e9-8c8cd31edc16"
+    },
+    {
+      "id": "6a913fb6-5066-49ad-96fe-955ce96bcd93",
+      "type": "istar.AndRefinementLink",
+      "source": "e5823b36-ad0b-45ad-81e0-4ee94cdc64da",
+      "target": "3e46282a-328e-4ab8-89e9-8c8cd31edc16"
+    },
+    {
+      "id": "9be44b09-c615-4b11-a7ad-07cb9e40d24c",
+      "type": "istar.NeededByLink",
+      "source": "525dafc5-3759-435d-81e9-4136398bb90d",
+      "target": "e5823b36-ad0b-45ad-81e0-4ee94cdc64da"
+    },
+    {
+      "id": "ba30da7b-ea9f-46ff-9d51-6956a715d05b",
+      "type": "istar.AndRefinementLink",
+      "source": "5ea6879a-a306-487f-b650-d94bb4af9393",
+      "target": "3e46282a-328e-4ab8-89e9-8c8cd31edc16"
+    },
+    {
+      "id": "91fe7a9d-6943-441d-8a5c-6abe27e954c1",
+      "type": "istar.DependencyLink",
+      "source": "6c440d63-94ab-4053-bb79-8df6e93bedb9",
+      "target": "a9200ad6-1b3a-4362-a387-538410ee64c9"
+    },
+    {
+      "id": "48b43dfa-cc77-4083-afac-5c15952226c6",
+      "type": "istar.DependencyLink",
+      "source": "a9200ad6-1b3a-4362-a387-538410ee64c9",
+      "target": "5ea6879a-a306-487f-b650-d94bb4af9393"
+    },
+    {
+      "id": "1e222d37-de87-41b1-8444-7dd27a1a3b11",
+      "type": "istar.NeededByLink",
+      "source": "4fdb21f6-44cc-4840-9645-97f1ae0cfba2",
+      "target": "3fbee747-9a6d-4c47-87be-9de8bc5ba621"
+    },
+    {
+      "id": "1422c161-3518-4ee6-92af-8f786cb12a48",
+      "type": "istar.AndRefinementLink",
+      "source": "3fbee747-9a6d-4c47-87be-9de8bc5ba621",
+      "target": "1257fadb-0088-408e-bd2f-cf6bf18e60f5"
+    },
+    {
+      "id": "e3bc6800-67d6-46d2-92a3-c311a6040350",
+      "type": "istar.AndRefinementLink",
+      "source": "5ea6879a-a306-487f-b650-d94bb4af9393",
+      "target": "3fbee747-9a6d-4c47-87be-9de8bc5ba621"
+    },
+    {
+      "id": "f1e51491-84dc-4db2-ae2a-93cabdfbe000",
+      "type": "istar.AndRefinementLink",
+      "source": "1257fadb-0088-408e-bd2f-cf6bf18e60f5",
+      "target": "57c52eb5-eb02-426e-b828-de4742668112"
+    },
+    {
+      "id": "3f688d73-baa3-42c1-ab98-df5cf590704a",
+      "type": "istar.NeededByLink",
+      "source": "e8bdec36-1d47-4a1a-809a-6b37152fa4ad",
+      "target": "57c52eb5-eb02-426e-b828-de4742668112"
+    },
+    {
+      "id": "156bf730-42dd-4c0b-8b50-ebc27ea3a387",
+      "type": "istar.DependencyLink",
+      "source": "6c440d63-94ab-4053-bb79-8df6e93bedb9",
+      "target": "1d5d6a17-4755-426b-bce4-498007047614"
+    },
+    {
+      "id": "fab26439-fd11-4234-a639-586b7b0ad3d1",
+      "type": "istar.DependencyLink",
+      "source": "1d5d6a17-4755-426b-bce4-498007047614",
+      "target": "57c52eb5-eb02-426e-b828-de4742668112"
+    },
+    {
+      "id": "4d6eb3f9-5135-45a0-acf2-fcc256aa6164",
+      "type": "istar.NeededByLink",
+      "source": "a7eb4cfb-f8fe-4b25-8c9a-59d69b66ce99",
+      "target": "57c52eb5-eb02-426e-b828-de4742668112"
+    },
+    {
+      "id": "e3d6d3d8-b60f-45b1-9878-f65d40c42d7e",
+      "type": "istar.IsALink",
+      "source": "192d59f4-826e-4a83-9247-c7fc5ffc1774",
+      "target": "153848cd-6383-4b93-adbc-b99593ffe39d"
+    },
+    {
+      "id": "8a7d7515-01e9-4188-a29a-94804d7cb96d",
+      "type": "istar.ContributionLink",
+      "source": "e5823b36-ad0b-45ad-81e0-4ee94cdc64da",
+      "target": "933a4a64-d7d0-47bf-a282-f0ffcd562b3a",
+      "label": "make"
+    }
+  ],
+  "display": {
+    "29a7aac5-b223-41fe-a785-80d96507a95e": {
+      "width": 124.89999389648438,
+      "height": 37.89999771118164
+    },
+    "71624147-fa4f-4707-8d5e-e07c6e9486e3": {
+      "width": 108.89999389648438,
+      "height": 52.899993896484375
+    },
+    "6885d626-3961-4bd4-8cb6-81b6a055441b": {
+      "width": 233.89999389648438,
+      "height": 45.89999771118164
+    },
+    "4f59edf6-ce0e-4e6d-a4cf-0634e8c58d47": {
+      "width": 214.89999389648438,
+      "height": 55.399993896484375
+    },
+    "e04cb66c-af1a-43cd-90d0-216f7e109c02": {
+      "width": 208.89999389648438,
+      "height": 49.39999771118164
+    },
+    "3dbc3c13-1466-4c75-9529-2c4cef75ab51": {
+      "width": 205.89999389648438,
+      "height": 60.39999771118164
+    },
+    "e0fca798-f9fd-4bc8-8934-2b0747d789b2": {
+      "width": 161.94999313354492,
+      "height": 79.36665344238281
+    },
+    "576434d7-9973-4469-9404-70880a997542": {
+      "width": 127.44999313354492,
+      "height": 53.19999694824219
+    },
+    "9c61bd57-68bc-42ab-b1c2-975416dc0aa0": {
+      "width": 134.94999313354492,
+      "height": 56.96662902832031
+    },
+    "b922862d-fe44-4746-ba67-01c33b18be3d": {
+      "width": 118.94999313354492,
+      "height": 62.96662902832031
+    },
+    "82acf589-0ead-4e6c-aa19-1aeb1308d328": {
+      "width": 147.44999313354492,
+      "height": 67.80000305175781
+    },
+    "8d85baab-c14e-4308-a889-5b95f25b1e5f": {
+      "width": 113.94999313354492,
+      "height": 39.96662902832031
+    },
+    "4bd7674d-bcbd-45eb-ab00-6a3e21143013": {
+      "width": 102.94999313354492,
+      "height": 42.96662902832031
+    },
+    "4afd4d4c-4844-43d6-bf28-34bd2e23d59e": {
+      "width": 311.73123931884766,
+      "height": 26.806228637695312
+    },
+    "b6de1a87-f23f-422d-ac84-cb0470c47a21": {
+      "width": 185.89999389648438,
+      "height": 65.89999771118164
+    },
+    "84d7fa9b-e039-4e38-8ef1-327d4c2a3ee8": {
+      "width": 133.89999389648438,
+      "height": 57.39999771118164
+    },
+    "f3cc9a60-6eaa-4336-beea-94e020b8aaee": {
+      "width": 121.37496948242188,
+      "height": 62.70624542236328
+    },
+    "e36b28fe-60f0-4b9b-ac3d-9368d1289433": {
+      "width": 128.77496337890625,
+      "height": 63.89999771118164
+    },
+    "e2b1a680-22dc-472c-8ac1-4f3cce5e1242": {
+      "width": 138.77496337890625,
+      "height": 66.39999771118164
+    },
+    "6c440d63-94ab-4053-bb79-8df6e93bedb9": {
+      "width": 123.949951171875,
+      "height": 67.63331604003906
+    },
+    "62ce6b6d-bf85-46e4-8e2a-f5a7fe83bb31": {
+      "width": 142.80001831054688,
+      "height": 62.89999771118164
+    },
+    "ac2c2352-6e5f-44b4-a496-60c926553742": {
+      "width": 115.30001831054688,
+      "height": 60.89999771118164
+    },
+    "69e76ba8-b4c8-4daa-bf4a-a729b5803d7e": {
+      "width": 167.30001831054688,
+      "height": 61.899993896484375
+    },
+    "4dd65a88-8570-4a15-8532-8570fc255264": {
+      "width": 116.9517822265625,
+      "height": 79.37477111816406
+    },
+    "14fcf3b3-0ab0-4309-9cbc-cb29b765334e": {
+      "width": 155.94999313354492,
+      "height": 56.36665344238281
+    },
+    "a2f13280-b174-472b-ba72-a7ad6e8264ce": {
+      "width": 140.44999313354492,
+      "height": 60.86665344238281
+    },
+    "12cdf353-9636-4f7b-a09f-3fb6a49d7d29": {
+      "width": 144.58331298828125,
+      "height": 63.36665344238281
+    },
+    "dedb2f50-fe37-450a-aa1b-bb1c1702f5e1": {
+      "width": 143.9166259765625,
+      "height": 77.69998168945312
+    },
+    "ab134a86-1767-4051-9477-20a9f5a193d8": {
+      "width": 169.73123931884766,
+      "height": 41.70625305175781
+    },
+    "525dafc5-3759-435d-81e9-4136398bb90d": {
+      "width": 191.73123931884766,
+      "height": 37.70625305175781
+    },
+    "dcc7a028-5948-48f4-bbab-a3179c8e63c3": {
+      "width": 187.73123931884766,
+      "height": 40.20624542236328
+    },
+    "4fdb21f6-44cc-4840-9645-97f1ae0cfba2": {
+      "width": 138.73123931884766,
+      "height": 39.70624542236328
+    },
+    "e8bdec36-1d47-4a1a-809a-6b37152fa4ad": {
+      "width": 214.73123931884766,
+      "height": 41.20624542236328
+    },
+    "a7eb4cfb-f8fe-4b25-8c9a-59d69b66ce99": {
+      "width": 260.73123931884766,
+      "height": 55.70624542236328
+    },
+    "5ea6879a-a306-487f-b650-d94bb4af9393": {
+      "width": 157.23123931884766,
+      "height": 37.40619659423828
+    },
+    "f5c6f324-da58-47c3-8561-a9ada6f301bd": {
+      "width": 177.23123931884766,
+      "height": 61.40619659423828
+    },
+    "3e46282a-328e-4ab8-89e9-8c8cd31edc16": {
+      "width": 158.73123931884766,
+      "height": 30.90619659423828
+    },
+    "e5823b36-ad0b-45ad-81e0-4ee94cdc64da": {
+      "width": 173.23123931884766,
+      "height": 45.40619659423828
+    },
+    "3fbee747-9a6d-4c47-87be-9de8bc5ba621": {
+      "width": 149.23123931884766,
+      "height": 55.40619659423828
+    },
+    "1257fadb-0088-408e-bd2f-cf6bf18e60f5": {
+      "width": 121.73123931884766,
+      "height": 47.50623321533203
+    },
+    "57c52eb5-eb02-426e-b828-de4742668112": {
+      "width": 123.23123931884766,
+      "height": 60.00623321533203
+    },
+    "76a64e6a-42f0-4452-8644-d50e17a59abe": {
+      "width": 117.73123931884766,
+      "height": 46.40620422363281
+    },
+    "76f45b32-67e6-4960-ae2a-750238ae70eb": {
+      "width": 126.73123931884766,
+      "height": 47.40620422363281
+    },
+    "a9200ad6-1b3a-4362-a387-538410ee64c9": {
+      "width": 128.73123931884766,
+      "height": 44.40620422363281
+    },
+    "1d5d6a17-4755-426b-bce4-498007047614": {
+      "width": 119.57500076293945,
+      "height": 61.700008392333984
+    },
+    "afc8e9bc-81a1-41ec-b614-b63d772657dc": {
+      "vertices": [
+        {
+          "x": 316,
+          "y": 654
+        }
+      ]
+    }
+  },
+  "tool": "pistar.2.0.0",
+  "istar": "2.0",
+  "saveDate": "Mon, 12 Jul 2021 13:21:30 GMT",
+  "diagram": {
+    "width": 2763,
+    "height": 1837,
+    "name": "Welcome Model",
+    "customProperties": {
+      "Description": "Welcome to the piStar tool! This model describe some of the recent improvements in the tool.\n\nFor help using this tool, please check the Help menu above"
+    }
+  }
+}
